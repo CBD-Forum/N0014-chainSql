@@ -9,4 +9,4 @@ See [http://www.chainsql.net](http://www.chainsql.net)
 
 ## License
 
-ChainSQL is under the GNU General Public License v3.0. See the [LICENSE](./License) directory for details.
+ChainSQL is under the GNU General Public License v3.0. See the [LICENSE](./LICENSE) directory for details.
