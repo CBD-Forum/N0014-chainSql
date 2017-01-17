@@ -1,6 +1,6 @@
 ## Overview
 
-ChainSQL is the world's first database application platform based on blockchain, which integrates the characteristics of blockchain technology and traditional distributed database. All operations on the data sheet are recorded in the blockchain in a log format, and the user can autonomously configure the tables to synchronize with the local database.
+The source code is based on [Rippled](https://github.com/ripple/rippled), you need to merge these source code files with Rippled source code files if you want to compile it.
 
 
 # Details of ChainSQL
