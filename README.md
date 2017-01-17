@@ -2,14 +2,6 @@
 
 ChainSQL is the world's first database application platform based on blockchain, which integrates the characteristics of blockchain technology and traditional distributed database. All operations on the data sheet are recorded in the blockchain in a log format, and the user can autonomously configure the tables to synchronize with the local database.
 
-## Install
-```
-  1. 
-  2. 
-  3. 
-  4. 
-  5. 
-```
 
 # Details of ChainSQL
 
